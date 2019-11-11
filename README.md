@@ -1,2 +1,2 @@
-# apartmentprices-webscraping
-Web Scraping de precios de rentas en CDMX
+# Practica 1 : Web scraping
+Web scraping de precios de rentas en CDMX
