@@ -9,5 +9,5 @@ La actividad ha sido elaborada de manera individual por Eréndira Navarro.
 ### Ficheros
 Se presentan los siguientes ficheros:
   * ws_cdmx_segundamano.py : se encuentra el código python con el cuál se podrá extraer la información y guardar en archivo .csv. El código extrae datos de 3 de las 16 Delegaciones de la CDMX (Cuauhtémoc, Miguel Hidalgo y Benito Juárez), pero puede ser facilmente modificado para extraer datos de otras ciudades y alcaldías o municipios.
-  * rentcdmx_segundamano.csv : contiene el archivo final, con información del 11 de noviembre 2019.
+  * rentcdmx_segundamano.csv : contiene el archivo final, con información del 10 de noviembre 2019.
   * practica1_erendira_navarro.pdf : archivo con las respuestas específicas de la práctica.
